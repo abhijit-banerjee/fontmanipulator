@@ -22,7 +22,7 @@
 }
 canvas
 {
- border : 5px solid white;
+ border : 5px solid rgb(186, 122, 122);
  border-radius: 20px;
- box-shadow: 5px 5px 5px grey;
+ box-shadow: 5px 5px 5px rgb(0, 0, 0);
 }
